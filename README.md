@@ -1,3 +1,7 @@
+# --- ONLY USE IF SVN IS DOWN ---
+# ------- MAY BE OUTDATED -------
+# --------- REVISION 931 --------
+
 # Open Fortress
 
 Open Fortress is a sourcemod that aims primarily at fun and introduces new gamemodes to the Team Fortress 2 universe. The current gamemode priority is Deathmatch, including derivates such as CTF and Gun Game and mutators such as Instagib. **Keep in mind this is the nightly client repository, which means it is not in a finished state and you might expect varied issues and crashes.** Soon there will be a stable client available for ordinary players, which the official game servers will be switching to. Linux binaries are now available! However, they're not updated very frequently, but soon a build bot will be configured for those. Mac OS will continue to be unsupported, unless someone that owns a Mac is willing to help out compiling them.
