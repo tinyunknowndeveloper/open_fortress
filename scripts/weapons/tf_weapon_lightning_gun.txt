@@ -8,14 +8,14 @@ WeaponData
 	"ITEM_FLAG_NOITEMPICKUP" 	"0"
 	
 	// Attributes TF.
-	"Damage"		"300" // Damage Per Second
+	"Damage"		"240" // Damage Per Second
 	"InstagibDamage"	"1800"
 	"Range"			"720"
 	"BulletsPerShot"	"1"
 	"Spread"		"0"
 	"TimeIdle"		"10.0"
 	"TimeIdleEmpty"		"1.0"
-	"TimeFireDelay"		"0.01"
+	"TimeFireDelay"		"0.05"
 	"ProjectileType"	"projectile_bullet"
 	"UseRapidFireCrits"	"1"
 	"HasTeamSkins_Viewmodel"			"1"
@@ -26,7 +26,7 @@ WeaponData
 	"primary_ammo"		"WEAPON_AMMO"
 	"secondary_ammo"	"None"
 	clip_size		-1
-	"MaxAmmo"	"400"
+	"MaxAmmo"	"150"
 
 	// bucket_dms.
 	"bucket"		"0"
